@@ -1,0 +1,154 @@
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.exe.config
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.exe
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.pdb
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.xml
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio1.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Form1.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Resources.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.vbproj.GenerateResource.Cache
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.exe
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.xml
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.pdb
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio2.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio3.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.EJERCICIO4.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio5.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio6.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio7.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio8.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio9.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio10.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio11.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio12.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.vbprojResolveAssemblyReference.cache
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio13.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio14.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio15.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio1Con.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.exe.config
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.exe
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.xml
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.pdb
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.exe
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.pdb
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.xml
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.vbprojResolveAssemblyReference.cache
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio1.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio10.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio11.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio12.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio13.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio14.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio15.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio1Con.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio2.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio2Con.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio3.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio3Con.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.EJERCICIO4.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio5.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio6.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio7.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio8.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio9.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Form1.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Resources.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.vbproj.GenerateResource.Cache
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio1Cic.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio2Cic.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio3Cic.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio4Cic.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio4Con.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio5Con.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio6Con.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Vector1.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Vector2.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Vector3.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.barra.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Matriz2.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Matriz3.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.exe.config
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.exe
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.xml
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.pdb
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.exe
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.pdb
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.xml
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.vbprojResolveAssemblyReference.cache
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.barra.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio1.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio10.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio11.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio12.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio13.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio14.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio15.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio1Cic.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio1Con.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio2.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio2Cic.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio2Con.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio3.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio3Cic.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio3Con.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.EJERCICIO4.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio4Cic.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio4Con.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio5.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio5Con.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio6.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio6Con.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio7.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio8.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio9.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Form1.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Matriz2.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Matriz3.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Resources.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Vector1.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Vector2.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Vector3.resources
+L:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.vbproj.GenerateResource.Cache
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.exe.config
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.exe
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.pdb
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\bin\Debug\Aplicación Básica.xml
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.vbproj.AssemblyReference.cache
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.barra.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio1.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio10.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio11.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio12.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio13.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio14.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio15.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio1Cic.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio1Con.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio2.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio2Cic.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio2Con.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio3.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio3Cic.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio3Con.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.EJERCICIO4.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio4Cic.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio4Con.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio5.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio5Con.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio6.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio6Con.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio7.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio8.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Ejercicio9.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Form1.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Matriz2.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Matriz3.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Resources.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Vector1.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Vector2.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación_Básica.Vector3.resources
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.vbproj.GenerateResource.cache
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.vbproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.exe
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.xml
+C:\Users\fabia\Desktop\guia N°13\Aplicación Básica\Aplicación Básica\obj\Debug\Aplicación Básica.pdb

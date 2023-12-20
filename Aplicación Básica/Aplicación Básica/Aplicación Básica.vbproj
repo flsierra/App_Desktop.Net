@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{62426A93-B060-422F-B217-4C87C8FA1B5B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Aplicación_Básica.My.MyApplication</StartupObject>
+    <RootNamespace>Aplicación_Básica</RootNamespace>
+    <AssemblyName>Aplicación Básica</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Aplicación Básica.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Aplicación Básica.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="barra.Designer.vb">
+      <DependentUpon>barra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="barra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio1.Designer.vb">
+      <DependentUpon>Ejercicio1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio10.Designer.vb">
+      <DependentUpon>Ejercicio10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio11.Designer.vb">
+      <DependentUpon>Ejercicio11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio12.Designer.vb">
+      <DependentUpon>Ejercicio12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio13.Designer.vb">
+      <DependentUpon>Ejercicio13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio14.Designer.vb">
+      <DependentUpon>Ejercicio14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio15.Designer.vb">
+      <DependentUpon>Ejercicio15.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio15.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio1Cic.Designer.vb">
+      <DependentUpon>Ejercicio1Cic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio1Cic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio1Con.Designer.vb">
+      <DependentUpon>Ejercicio1Con.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio1Con.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio2.Designer.vb">
+      <DependentUpon>Ejercicio2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio2Cic.Designer.vb">
+      <DependentUpon>Ejercicio2Cic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio2Cic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio2Con.Designer.vb">
+      <DependentUpon>Ejercicio2Con.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio2Con.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio3.Designer.vb">
+      <DependentUpon>Ejercicio3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio3Cic.Designer.vb">
+      <DependentUpon>Ejercicio3Cic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio3Cic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio3Con.Designer.vb">
+      <DependentUpon>Ejercicio3Con.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio3Con.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio4.Designer.vb">
+      <DependentUpon>Ejercicio4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio4Cic.Designer.vb">
+      <DependentUpon>Ejercicio4Cic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio4Cic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio4Con.Designer.vb">
+      <DependentUpon>Ejercicio4Con.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio4Con.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio5.Designer.vb">
+      <DependentUpon>Ejercicio5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio5Con.Designer.vb">
+      <DependentUpon>Ejercicio5Con.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio5Con.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio6.Designer.vb">
+      <DependentUpon>Ejercicio6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio6Con.Designer.vb">
+      <DependentUpon>Ejercicio6Con.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio6Con.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio7.Designer.vb">
+      <DependentUpon>Ejercicio7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio8.Designer.vb">
+      <DependentUpon>Ejercicio8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio9.Designer.vb">
+      <DependentUpon>Ejercicio9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matriz1.designer.vb">
+      <DependentUpon>Matriz1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Matriz1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Matriz2.designer.vb">
+      <DependentUpon>Matriz2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Matriz2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Vector1.Designer.vb">
+      <DependentUpon>Vector1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vector1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vector2.Designer.vb">
+      <DependentUpon>Vector2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vector2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vector3.Designer.vb">
+      <DependentUpon>Vector3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vector3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="barra.resx">
+      <DependentUpon>barra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio1.resx">
+      <DependentUpon>Ejercicio1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio10.resx">
+      <DependentUpon>Ejercicio10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio11.resx">
+      <DependentUpon>Ejercicio11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio12.resx">
+      <DependentUpon>Ejercicio12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio13.resx">
+      <DependentUpon>Ejercicio13.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio14.resx">
+      <DependentUpon>Ejercicio14.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio15.resx">
+      <DependentUpon>Ejercicio15.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio1Cic.resx">
+      <DependentUpon>Ejercicio1Cic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio1Con.resx">
+      <DependentUpon>Ejercicio1Con.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio2.resx">
+      <DependentUpon>Ejercicio2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio2Cic.resx">
+      <DependentUpon>Ejercicio2Cic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio2Con.resx">
+      <DependentUpon>Ejercicio2Con.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio3.resx">
+      <DependentUpon>Ejercicio3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio3Cic.resx">
+      <DependentUpon>Ejercicio3Cic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio3Con.resx">
+      <DependentUpon>Ejercicio3Con.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio4.resx">
+      <DependentUpon>Ejercicio4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio4Cic.resx">
+      <DependentUpon>Ejercicio4Cic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio4Con.resx">
+      <DependentUpon>Ejercicio4Con.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio5.resx">
+      <DependentUpon>Ejercicio5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio5Con.resx">
+      <DependentUpon>Ejercicio5Con.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio6.resx">
+      <DependentUpon>Ejercicio6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio6Con.resx">
+      <DependentUpon>Ejercicio6Con.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio7.resx">
+      <DependentUpon>Ejercicio7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio8.resx">
+      <DependentUpon>Ejercicio8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio9.resx">
+      <DependentUpon>Ejercicio9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz1.resx">
+      <DependentUpon>Matriz1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Matriz2.resx">
+      <DependentUpon>Matriz2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vector1.resx">
+      <DependentUpon>Vector1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vector2.resx">
+      <DependentUpon>Vector2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vector3.resx">
+      <DependentUpon>Vector3.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

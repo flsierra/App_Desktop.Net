@@ -1,0 +1,34 @@
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Resources.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbproj.GenerateResource.Cache
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbprojResolveAssemblyReference.cache
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.xml
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.xml
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbprojResolveAssemblyReference.cache
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Ejercio2.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Resources.resources
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbproj.GenerateResource.Cache
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbproj.AssemblyReference.cache
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Ejercio2.resources
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Resources.resources
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbproj.GenerateResource.cache
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.xml
+C:\Users\fabia\Desktop\guia N°13\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb

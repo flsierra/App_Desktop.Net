@@ -1,0 +1,26 @@
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Resources.resources
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.vbproj.GenerateResource.Cache
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.xml
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.xml
+D:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.xml
+F:\SENA\7.EVIDENCIAS DE APRENDIZAJE\ing Paola Abella\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.xml
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.vbproj.AssemblyReference.cache
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Ejercicio3.resources
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Resources.resources
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.vbproj.GenerateResource.cache
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.vbproj.CoreCompileInputs.cache
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.xml
+C:\Users\fabia\Desktop\guia N°13\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
